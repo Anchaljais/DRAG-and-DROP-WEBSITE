@@ -1,0 +1,25 @@
+// constants.js
+export const ItemTypes = {
+  HEADING1: 'heading1',
+  HEADING2: 'heading2',
+  HEADING3: 'heading3',
+  PARAGRAPH: 'paragraph',
+  IMAGE: 'image',
+  ICON: 'icon',
+  NAVBAR: 'navbar',
+  SIDEBAR: 'sidebar',
+  BUTTON: 'button',
+  CARD: 'card',
+  TESTIMONIAL: 'testimonial',
+  CONTAINER: 'container',
+  HERO: 'hero',
+  LIST: 'list',
+  QUOTE: 'quote',
+  VIDEO: 'video',
+  GALLERY: 'gallery',
+  FOOTER: 'footer',
+  GRID: 'grid',
+  FORM: 'form',
+  ACCORDION: 'accordion',
+  TABS: 'tabs'
+};
